@@ -8,7 +8,7 @@
 
 - Game Play Video
 
-  https://raw.githubusercontent.com/pnu-2025-esdl-wed-1/stm32-duck-hunt-game/raw/main/Docs/gameplay.mp4
+  https://github.com/pnu-2025-esdl-wed-1/stm32-duck-hunt-game/raw/refs/heads/main/Docs/gameplay.mp4
 
 Unity로 구현한 게임 Duck Hunt입니다. STM32 시리얼 통신을 통한 센서 입력 기반 슈팅 메커니즘을 포함합니다.
 
@@ -27,18 +27,18 @@ Duck Hunt implemented in Unity. It includes a shooting mechanism based on sensor
     
     - macOS(AMD64 / ARM64)
 
-- Key Feature
+- **✨ Key Feature**
 
-    - STM32 시리얼 통신을 통한 센서 입력 기반 슈팅 메커니즘
+    - **STM32 시리얼 통신을 통한 센서 입력 기반 슈팅 메커니즘**
 
-      Shooting mechanism based on sensor input via STM32 serial communication
+      **Shooting mechanism based on sensor input via STM32 serial communication**
 
 
 ## ❓ How to Run
 
-1. Releases 페이지에서 빌드 파일 다운로드
+1. [Releases](https://github.com/pnu-2025-esdl-wed-1/stm32-duck-hunt-game/releases) 페이지에서 빌드 파일 다운로드
 
-   Download build files from the Releases page
+   Download build files from the [Releases](https://github.com/pnu-2025-esdl-wed-1/stm32-duck-hunt-game/releases) page
 
 2. 압축 해제
 
