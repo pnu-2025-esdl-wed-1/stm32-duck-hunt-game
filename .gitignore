@@ -100,5 +100,4 @@ InitTestScene*.unity*
 
 
 .vscode/
-Tools/venv/
 *.slnx
